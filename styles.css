@@ -1,0 +1,33 @@
+.name {
+    font-size: 72px;
+  }
+  
+  .divider {
+    border-bottom: 7px solid black;
+  }
+  
+  .subtitle {
+    font-size: 30px;
+  }
+  
+  body {
+    text-align: center;
+    color: #333;
+    display: block;
+  }
+  
+  img {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      margin: 0 auto;
+  }
+  
+  .parent {
+      font-size: 1.5rem;
+      background:#FFF;
+      margin: 0;
+      padding: 1rem;
+      text-align: center;
+  }
+  
